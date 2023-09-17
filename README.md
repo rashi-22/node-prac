@@ -22,3 +22,12 @@ $ npm install
 # development
 $ npm run start
 ```
+
+## Testing the APIs
+```bash
+
+A postman collection named "user-profile(node-prac).postman_collection.json"
+is attached to test the Apis with postman.
+
+Go to the postman and import the above specified File and run the collection.
+```
